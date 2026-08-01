@@ -1,0 +1,319 @@
+Feature,VIF,VIF_Is_Infinite,Dataset,Is_Constant,Is_Near_Constant,Recommendation
+QRS_Dur_Global,1.7740033130971744,False,PTB-XL Original,False,False,Keep
+QRS_Dur_Global_count,154.2730256435754,False,PTB-XL Original,False,False,Review for Removal (High VIF)
+QRS_Dur_Global_iqr,1.2891027752871635,False,PTB-XL Original,False,False,Keep
+Q_Amp_I,4.17538219162082,False,PTB-XL Original,False,False,Keep
+Q_Amp_II,5.136529909229177,False,PTB-XL Original,False,False,Keep
+Q_Amp_III,4.897541141374506,False,PTB-XL Original,False,False,Keep
+Q_Amp_III_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_III_iqr,2.982974424004737,False,PTB-XL Original,False,False,Keep
+Q_Amp_II_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_II_iqr,3.3266177445657954,False,PTB-XL Original,False,False,Keep
+Q_Amp_I_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_I_iqr,2.4609849298285926,False,PTB-XL Original,False,False,Keep
+Q_Amp_V1,1.9794126654450848,False,PTB-XL Original,False,False,Keep
+Q_Amp_V1_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_V1_iqr,6.718952635918163,False,PTB-XL Original,False,False,Keep
+Q_Amp_V2,3.0953909695052286,False,PTB-XL Original,False,False,Keep
+Q_Amp_V2_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_V2_iqr,4.015714930599893,False,PTB-XL Original,False,False,Keep
+Q_Amp_V3,3.93608756885036,False,PTB-XL Original,False,False,Keep
+Q_Amp_V3_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_V3_iqr,4.168168584724049,False,PTB-XL Original,False,False,Keep
+Q_Amp_V4,3.3546375827884125,False,PTB-XL Original,False,False,Keep
+Q_Amp_V4_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_V4_iqr,2.8726787991360547,False,PTB-XL Original,False,False,Keep
+Q_Amp_V5,2.639684016695476,False,PTB-XL Original,False,False,Keep
+Q_Amp_V5_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_V5_iqr,5.863340678889704,False,PTB-XL Original,False,False,Keep
+Q_Amp_V6,2.346975787526473,False,PTB-XL Original,False,False,Keep
+Q_Amp_V6_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_V6_iqr,6.8596705375452895,False,PTB-XL Original,False,False,Keep
+Q_Amp_aVF,5.773836097415053,False,PTB-XL Original,False,False,Keep
+Q_Amp_aVF_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_aVF_iqr,3.4867119823393304,False,PTB-XL Original,False,False,Keep
+Q_Amp_aVL,5.198984630961504,False,PTB-XL Original,False,False,Keep
+Q_Amp_aVL_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_aVL_iqr,2.511154014983047,False,PTB-XL Original,False,False,Keep
+Q_Amp_aVR,3.376786555093584,False,PTB-XL Original,False,False,Keep
+Q_Amp_aVR_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+Q_Amp_aVR_iqr,2.8244094703109193,False,PTB-XL Original,False,False,Keep
+RR_Mean_Global,7.637503232134927,False,PTB-XL Original,False,False,Keep
+RR_Mean_Global_count,98799.35197116855,False,PTB-XL Original,False,False,Review for Removal (High VIF)
+RR_Mean_Global_iqr,1.307263320167306,False,PTB-XL Original,False,False,Keep
+R_Amp_I,17.028189990439596,False,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_II,19.171290468551362,False,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_III,22.19478706661062,False,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_III_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_III_iqr,6.70236340374287,False,PTB-XL Original,False,False,Keep
+R_Amp_II_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_II_iqr,6.30123252582536,False,PTB-XL Original,False,False,Keep
+R_Amp_I_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_I_iqr,3.137137634153951,False,PTB-XL Original,False,False,Keep
+R_Amp_V1,3.9630023908943115,False,PTB-XL Original,False,False,Keep
+R_Amp_V1_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_V1_iqr,4.3533302286545315,False,PTB-XL Original,False,False,Keep
+R_Amp_V2,6.975991225859136,False,PTB-XL Original,False,False,Keep
+R_Amp_V2_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_V2_iqr,4.472123394491941,False,PTB-XL Original,False,False,Keep
+R_Amp_V3,9.599816161540808,False,PTB-XL Original,False,False,Keep
+R_Amp_V3_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_V3_iqr,4.156992298818921,False,PTB-XL Original,False,False,Keep
+R_Amp_V4,6.846914710204917,False,PTB-XL Original,False,False,Keep
+R_Amp_V4_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_V4_iqr,2.8366471523581764,False,PTB-XL Original,False,False,Keep
+R_Amp_V5,6.505887942868681,False,PTB-XL Original,False,False,Keep
+R_Amp_V5_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_V5_iqr,4.674336283040463,False,PTB-XL Original,False,False,Keep
+R_Amp_V6,4.602785840710909,False,PTB-XL Original,False,False,Keep
+R_Amp_V6_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_V6_iqr,5.382682214074086,False,PTB-XL Original,False,False,Keep
+R_Amp_aVF,23.16506113822848,False,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_aVF_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_aVF_iqr,7.130350653703817,False,PTB-XL Original,False,False,Keep
+R_Amp_aVL,20.544989590017103,False,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_aVL_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_aVL_iqr,4.297571170043812,False,PTB-XL Original,False,False,Keep
+R_Amp_aVR,15.607243859542498,False,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_aVR_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+R_Amp_aVR_iqr,4.963597356692513,False,PTB-XL Original,False,False,Keep
+ST_Elev_I,2.5019140869594403,False,PTB-XL Original,False,False,Keep
+ST_Elev_II,2.597933325894287,False,PTB-XL Original,False,False,Keep
+ST_Elev_III,1.9854246395394886,False,PTB-XL Original,False,False,Keep
+ST_Elev_III_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_III_iqr,1.20539094712784,False,PTB-XL Original,False,False,Keep
+ST_Elev_II_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_II_iqr,1.5200905218031922,False,PTB-XL Original,False,False,Keep
+ST_Elev_I_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_I_iqr,1.4806256540138039,False,PTB-XL Original,False,False,Keep
+ST_Elev_V1,1.3780474782375687,False,PTB-XL Original,False,False,Keep
+ST_Elev_V1_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_V1_iqr,1.145871142961962,False,PTB-XL Original,False,False,Keep
+ST_Elev_V2,1.8613935372909134,False,PTB-XL Original,False,False,Keep
+ST_Elev_V2_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_V2_iqr,1.3476070700218183,False,PTB-XL Original,False,False,Keep
+ST_Elev_V3,2.032399501118292,False,PTB-XL Original,False,False,Keep
+ST_Elev_V3_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_V3_iqr,1.3834669680034617,False,PTB-XL Original,False,False,Keep
+ST_Elev_V4,2.0054898890943313,False,PTB-XL Original,False,False,Keep
+ST_Elev_V4_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_V4_iqr,1.4368530733149656,False,PTB-XL Original,False,False,Keep
+ST_Elev_V5,2.5338768325395806,False,PTB-XL Original,False,False,Keep
+ST_Elev_V5_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_V5_iqr,1.5745314323699051,False,PTB-XL Original,False,False,Keep
+ST_Elev_V6,2.4646630708751296,False,PTB-XL Original,False,False,Keep
+ST_Elev_V6_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_V6_iqr,1.5883631675850927,False,PTB-XL Original,False,False,Keep
+ST_Elev_aVF,2.205848902087298,False,PTB-XL Original,False,False,Keep
+ST_Elev_aVF_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_aVF_iqr,1.3935848703603737,False,PTB-XL Original,False,False,Keep
+ST_Elev_aVL,2.2611611387923674,False,PTB-XL Original,False,False,Keep
+ST_Elev_aVL_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_aVL_iqr,1.277165485796504,False,PTB-XL Original,False,False,Keep
+ST_Elev_aVR,2.1476112509575374,False,PTB-XL Original,False,False,Keep
+ST_Elev_aVR_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+ST_Elev_aVR_iqr,1.5555944591029491,False,PTB-XL Original,False,False,Keep
+S_Amp_V1,1.90719000204877,False,PTB-XL Original,False,False,Keep
+S_Amp_V1_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+S_Amp_V1_iqr,7.592594975433624,False,PTB-XL Original,False,False,Keep
+S_Amp_V2,3.0918349079045933,False,PTB-XL Original,False,False,Keep
+S_Amp_V2_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+S_Amp_V2_iqr,5.1629158130259265,False,PTB-XL Original,False,False,Keep
+S_Amp_V3,3.48358939132165,False,PTB-XL Original,False,False,Keep
+S_Amp_V3_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+S_Amp_V3_iqr,5.44391695769662,False,PTB-XL Original,False,False,Keep
+T_Amp_I,5.219796924143112,False,PTB-XL Original,False,False,Keep
+T_Amp_II,5.884325640017284,False,PTB-XL Original,False,False,Keep
+T_Amp_III,5.985538838533839,False,PTB-XL Original,False,False,Keep
+T_Amp_III_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_III_iqr,6.785747873926888,False,PTB-XL Original,False,False,Keep
+T_Amp_II_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_II_iqr,6.724151160647586,False,PTB-XL Original,False,False,Keep
+T_Amp_I_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_I_iqr,3.4073938945410105,False,PTB-XL Original,False,False,Keep
+T_Amp_V1,3.1203891785272715,False,PTB-XL Original,False,False,Keep
+T_Amp_V1_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_V1_iqr,6.244686211494844,False,PTB-XL Original,False,False,Keep
+T_Amp_V2,4.428138454719581,False,PTB-XL Original,False,False,Keep
+T_Amp_V2_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_V2_iqr,5.50641438273955,False,PTB-XL Original,False,False,Keep
+T_Amp_V3,4.877071980075111,False,PTB-XL Original,False,False,Keep
+T_Amp_V3_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_V3_iqr,4.693443414430562,False,PTB-XL Original,False,False,Keep
+T_Amp_V4,3.72061832252311,False,PTB-XL Original,False,False,Keep
+T_Amp_V4_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_V4_iqr,2.719707504948713,False,PTB-XL Original,False,False,Keep
+T_Amp_V5,4.52065986909153,False,PTB-XL Original,False,False,Keep
+T_Amp_V5_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_V5_iqr,4.113328245257234,False,PTB-XL Original,False,False,Keep
+T_Amp_V6,4.100531890581309,False,PTB-XL Original,False,False,Keep
+T_Amp_V6_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_V6_iqr,6.33859759252461,False,PTB-XL Original,False,False,Keep
+T_Amp_aVF,6.458670723954669,False,PTB-XL Original,False,False,Keep
+T_Amp_aVF_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_aVF_iqr,8.789590799475704,False,PTB-XL Original,False,False,Keep
+T_Amp_aVL,6.12516201903327,False,PTB-XL Original,False,False,Keep
+T_Amp_aVL_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_aVL_iqr,4.384698154826694,False,PTB-XL Original,False,False,Keep
+T_Amp_aVR,5.229763956369385,False,PTB-XL Original,False,False,Keep
+T_Amp_aVR_count,9999.0,True,PTB-XL Original,False,False,Review for Removal (High VIF)
+T_Amp_aVR_iqr,3.8228640015975386,False,PTB-XL Original,False,False,Keep
+QRS_Dur_Global,109.42400650268445,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+QRS_Dur_Global_count,3083.72768239482,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+QRS_Dur_Global_iqr,4.511069517009193,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_I,5.823487095289209,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_II,7.008284310576347,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_III,6.809757620172597,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_III_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_III_iqr,3.1818183667164877,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_II_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_II_iqr,3.6200658783120336,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_I_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_I_iqr,4.069599173444145,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V1,4.646949685515179,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V1_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_V1_iqr,2.8435263960588504,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V2,8.200141067346534,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V2_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_V2_iqr,2.604246290757118,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V3,7.280733885420304,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V3_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_V3_iqr,2.6118839011263466,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V4,5.411676169662363,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V4_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_V4_iqr,2.819992341106655,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V5,4.887560365444518,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V5_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_V5_iqr,3.3906635375935097,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V6,4.109563879132554,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_V6_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_V6_iqr,3.174730601804409,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_aVF,7.365814025653488,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_aVF_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_aVF_iqr,3.730113011472807,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_aVL,6.987030964504072,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_aVL_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_aVL_iqr,2.889724618044616,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_aVR,5.60918066486393,False,PTB-XL Re-extracted,False,False,Keep
+Q_Amp_aVR_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+Q_Amp_aVR_iqr,3.3791674516113877,False,PTB-XL Re-extracted,False,False,Keep
+RR_Mean_Global,48.81415686592665,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+RR_Mean_Global_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+RR_Mean_Global_iqr,2.0449945635856985,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_I,93.69671624739573,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_II,48.95411121298893,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_III,33.32817570498353,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_III_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_III_iqr,8.94100905712887,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_II_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_II_iqr,7.503321603172152,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_I_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_I_iqr,4.052801263892114,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_V1,15.620388469717145,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V1_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V1_iqr,4.497679381610758,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_V2,16.74495485543938,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V2_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V2_iqr,5.511418010797716,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_V3,12.863617768189108,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V3_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V3_iqr,4.61700784049734,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_V4,14.822016254373638,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V4_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V4_iqr,3.5092784743002214,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_V5,36.06049216055487,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V5_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V5_iqr,4.674402223492386,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_V6,29.874009845240607,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V6_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_V6_iqr,4.043964632520526,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_aVF,32.495816103205804,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_aVF_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_aVF_iqr,8.809094209115328,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_aVL,52.10731747730865,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_aVL_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_aVL_iqr,6.4838770363446905,False,PTB-XL Re-extracted,False,False,Keep
+R_Amp_aVR,100.65443769331551,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_aVR_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+R_Amp_aVR_iqr,4.64145575993189,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_I,3.1630035228317417,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_II,4.377497748906141,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_III,6.993802006679749,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_III_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_III_iqr,6.6349269817958225,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_II_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_II_iqr,6.5276142573761,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_I_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_I_iqr,4.280719683067852,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V1,4.453871596613766,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V1_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_V1_iqr,3.742072775621775,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V2,7.169565902526834,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V2_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_V2_iqr,3.9176653601799227,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V3,5.986407992205028,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V3_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_V3_iqr,4.460055809952486,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V4,3.4240807181929678,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V4_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_V4_iqr,3.6925648491127454,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V5,3.964863485299092,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V5_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_V5_iqr,2.9063210932468846,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V6,4.395587181838731,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_V6_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_V6_iqr,3.488530095450443,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_aVF,5.28461796814593,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_aVF_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_aVF_iqr,8.097920260301084,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_aVL,5.1644901838558095,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_aVL_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_aVL_iqr,5.097942997821064,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_aVR,4.643735667332425,False,PTB-XL Re-extracted,False,False,Keep
+ST_Elev_aVR_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+ST_Elev_aVR_iqr,6.30004122194747,False,PTB-XL Re-extracted,False,False,Keep
+S_Amp_V1,2.221566896816278,False,PTB-XL Re-extracted,False,False,Keep
+S_Amp_V1_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+S_Amp_V1_iqr,2.308513765211143,False,PTB-XL Re-extracted,False,False,Keep
+S_Amp_V2,3.3529055755899493,False,PTB-XL Re-extracted,False,False,Keep
+S_Amp_V2_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+S_Amp_V2_iqr,2.561898672541161,False,PTB-XL Re-extracted,False,False,Keep
+S_Amp_V3,5.498663726387078,False,PTB-XL Re-extracted,False,False,Keep
+S_Amp_V3_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+S_Amp_V3_iqr,2.697392710890365,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_I,10.115831090791506,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_II,13.031567475900886,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_III,5.789259499250278,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_III_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_III_iqr,4.02100503986097,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_II_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_II_iqr,3.87103693368392,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_I_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_I_iqr,3.2386861783620455,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V1,3.7332558791833597,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V1_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V1_iqr,2.6726880424065826,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V2,9.726011050484033,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V2_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V2_iqr,3.582824000384968,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V3,12.265215528207355,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V3_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V3_iqr,3.1449197395487647,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V4,10.65053760595949,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V4_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V4_iqr,2.7149937340646044,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V5,10.69330276455959,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V5_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V5_iqr,3.2086563224830678,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V6,8.224285114215277,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_V6_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_V6_iqr,2.607827176920259,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_aVF,10.381583413536033,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_aVF_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_aVF_iqr,4.496456182484378,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_aVL,5.151031695024147,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_aVL_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_aVL_iqr,3.3688251286210584,False,PTB-XL Re-extracted,False,False,Keep
+T_Amp_aVR,10.729899423350677,False,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_aVR_count,9999.0,True,PTB-XL Re-extracted,False,False,Review for Removal (High VIF)
+T_Amp_aVR_iqr,3.0697754692528902,False,PTB-XL Re-extracted,False,False,Keep
