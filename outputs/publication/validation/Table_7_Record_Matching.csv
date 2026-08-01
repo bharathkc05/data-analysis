@@ -1,0 +1,9 @@
+Metric,Value
+Records in PTB-XL Original,21799.0
+Records in PTB-XL Re-extracted,21796.0
+Successfully matched,21796.0
+Present only in PTB-XL Original,3.0
+Present only in PTB-XL Re-extracted,0.0
+Duplicate IDs in PTB-XL Original,0.0
+Duplicate IDs in PTB-XL Re-extracted,0.0
+Match percentage (%),99.99
