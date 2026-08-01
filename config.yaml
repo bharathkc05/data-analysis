@@ -1,0 +1,40 @@
+# configuration for ECG-Deli analysis pipeline
+
+# Toggle this mode to change the pipeline's behavior:
+# "extraction_validation": PTB-XL Original vs PTB-XL Re-extracted (Includes paired stats, outputs to /validation)
+# "cross_dataset_comparison": MIMIC-IV vs PTB-XL Original (Skips paired stats, outputs to /comparison)
+mode: "extraction_validation"
+
+paths:
+  mimic_csv: "C:\\Users\\Acer\\Desktop\\Capstone\\SCM\\data\\raw\\processed\\extracted_ecg_features.csv"
+  ptbxl_original_csv: "C:\\Users\\Acer\\Desktop\\Capstone\\Capstone\\data\\raw\\PTB-XL+-1.0.1\\features\\ecgdeli_features.csv"
+  ptbxl_reextracted_csv: "C:\\Users\\Acer\\Desktop\\Capstone\\Capstone\\data\\extracted_ecg_features_ptbxl.csv"
+
+plotting:
+  dpi: 300
+  format: "png"
+  colors:
+    "MIMIC-IV": "#1f77b4"
+    "PTB-XL Original": "#ff7f0e"
+    "PTB-XL Re-extracted": "#2ca02c"
+
+thresholds:
+  missingness_pct_warn: 5.0
+  missingness_pct_critical: 10.0
+  vif_high: 10.0
+  outlier_iqr: 1.5
+  outlier_z: 3.0
+  outlier_mad: 3.5
+  outlier_contamination: 0.01
+  similarity_score_poor: 60.0
+  similarity_score_fair: 70.0
+  similarity_score_good: 80.0
+  similarity_score_excellent: 90.0
+  correlation_high: [0.90, 0.95, 0.99]
+  normality_alpha: 0.05
+  normality_skew_threshold: 2.0
+  normality_kurtosis_threshold: 7.0
+  plausibility_lower_pct: 1.0
+  plausibility_upper_pct: 99.0
+  mahalanobis_alpha: 0.001
+  histogram_bins: 100
